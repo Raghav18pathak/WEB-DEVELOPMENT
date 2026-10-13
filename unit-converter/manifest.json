@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Metric/Imperial Unit Converter",
+  "version": "1.0",
+  "description": "Convert a number between meters/feet, liters/gallons and kilograms/pounds.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Unit Converter"
+  }
+}
